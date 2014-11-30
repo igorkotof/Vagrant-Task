@@ -1,6 +1,7 @@
 Vagrant-Task
 ============
 Goal
+
 You’ll have to create a custom Vagrantfile script, which is supposed to provision and configure the following virtual machine:
 
 Guest operating system
